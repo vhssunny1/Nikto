@@ -1,4 +1,4 @@
 # Nikto
  Nikto Web Server Scanner
  
- docker run eracorp/nikto -host target-url
+ docker run --rm eracorp/nikto -host target-url
