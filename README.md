@@ -1,6 +1,6 @@
 # Nikto
  Nikto Web Server Scanner
  
- docker pull eracorp/nikto
+docker pull vhssunny1/nikto
  
- docker run --rm eracorp/nikto -host target-url
+ docker run --rm vhssunny1/nikto -host target-url
